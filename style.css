@@ -186,7 +186,7 @@ a:target~a.close {
     display: inline-block;
 }
 
-@media (aspect-ratio < 2/3) {
+@media (aspect-ratio < 3/2) {
     header {
         z-index: 2;
         width: 100%;
