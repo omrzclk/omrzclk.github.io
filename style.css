@@ -94,7 +94,7 @@ footer p {
 }
 
 .index {
-    background-color: #000000;
+    background-color: #101010;
     color: #ffffff;
 }
 
@@ -112,7 +112,7 @@ footer p {
 }
 
 .project {
-    background-color: #000000;
+    background-color: #101010;
     color: #ffffff;
 }
 
@@ -194,7 +194,7 @@ a:target~a.close {
 
     .index header,
     .project header {
-        background: #000000;
+        background: #101010;
     }
 
     .blog header {
